@@ -84,7 +84,7 @@ The parameter "mean" is the location of the peak. The standard deviation is, rou
 ## Sinusoid
 
 We will use three parameters for fitting a sinusoid to data: 
-$$A \sin\left(\frac{2\pi}{P}\right) + B$$ 
+$$A \sin\left(\frac{2\pi}{P}*t\right) + B$$ 
 where 
 
 - $A$ is the "amplitude"
